@@ -10,8 +10,3 @@ class PostsController < ApplicationController
 end
 
 
-
-
-
-
-
